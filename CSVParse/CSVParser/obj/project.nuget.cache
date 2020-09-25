@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCQ7T1Cib2FYFqYu10+FcTX7PyNGif9ELFqXXYvi/52gIVO6RvbOk/fT37Q48A7Zt6DgZbuzpukL3qraQi/QPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Kwork\\CSVParser\\CSVParser\\CSVParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleck\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

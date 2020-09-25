@@ -1,0 +1,13 @@
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\obj\Debug\netcoreapp3.1\OpenJson.AssemblyInfoInputs.cache
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\obj\Debug\netcoreapp3.1\OpenJson.AssemblyInfo.cs
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\bin\Debug\netcoreapp3.1\OpenJson.exe
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\bin\Debug\netcoreapp3.1\OpenJson.deps.json
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\bin\Debug\netcoreapp3.1\OpenJson.runtimeconfig.json
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\bin\Debug\netcoreapp3.1\OpenJson.runtimeconfig.dev.json
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\bin\Debug\netcoreapp3.1\OpenJson.dll
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\bin\Debug\netcoreapp3.1\OpenJson.pdb
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\obj\Debug\netcoreapp3.1\OpenJson.csproj.CopyComplete
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\obj\Debug\netcoreapp3.1\OpenJson.dll
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\obj\Debug\netcoreapp3.1\OpenJson.pdb
+C:\Users\Islamov-AI\source\repos\OpenJson\OpenJson\obj\Debug\netcoreapp3.1\OpenJson.csprojAssemblyReference.cache
